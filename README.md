@@ -1,3 +1,3 @@
 # git-exercise
 
-I like turtles
+I like turtles and chocolate
